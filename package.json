@@ -1,9 +1,9 @@
 {
-	"name": "nextjs-starter-tailwind",
-	"description": "Next.js starter, using pages router, styled with Tailwind",
+	"name": "twin-flame-tattoo",
+	"description": "Tattoo studio website built with Next.js and Tailwind CSS",
 	"version": "1.0.0",
 	"private": true,
-	"author": "AB&C",
+	"author": "jcock",
 	"scripts": {
 		"dev": "next dev",
 		"build": "next build",
@@ -70,9 +70,9 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/abcagency/nextjs-pages-tailwind"
+		"url": "https://github.com/jcock/twin-flame-tattoo"
 	},
 	"bugs": {
-		"url": "https://github.com/abcagency/nextjs-pages-tailwind/issues"
+		"url": "https://github.com/jcock/twin-flame-tattoo/issues"
 	}
 }

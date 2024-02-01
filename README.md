@@ -1,10 +1,4 @@
-<!-- markdownlint-disable -->
-[![AB&C](https://avatars3.githubusercontent.com/u/22617576?s=200&v=4)](https://abccreative.com/)
-<!-- markdownlint-enable -->
-
-# Next.js Starter Tailwind
-
-A minimal starter template using Next.js with pages routing and Tailwind.
+# Twin Flame Tattoo
 
 ![Repo Size](https://img.shields.io/github/repo-size/badges/shields.svg?style=for-the-badge)
 [![License: 0BSD](https://img.shields.io/badge/license-0BSD-blue.svg?style=for-the-badge)](http://unlicense.org/)
@@ -47,13 +41,10 @@ A minimal starter template using Next.js with pages routing and Tailwind.
 
 ## Get started
 
-Create a new Next.js project using this starter:
+Clone repo:
 
 ```sh
-npx create-next-app my-new-website -e "https://github.com/abcagency/nextjs-pages-tailwind"
-```
-
-```sh
+git clone git@github.com:jcock/twin-flame-tattoo.git
 cd my-new-website
 npm i
 ```
@@ -119,8 +110,6 @@ npm i     # Update installed packages and package-lock.json
 <table>
   <tr>
     <td align="center" style=""><img src="https://avatars.githubusercontent.com/u/6616625?s=60&v=4" width="100px;"  style="background-color: #000; border-radius: 9999px;" alt="Jason Cockerham"/><br /><sub><b>Jason Cockerham</b></sub></td>
-		<td align="center"><img src="https://avatars.githubusercontent.com/u/650202?s=120&v=4" width="100px;"  style="border-radius: 9999px;" alt="Chris Marts"/><br /><sub><b>Chris Marts</b></sub></td>
-		<td align="center"><img src="https://avatars.githubusercontent.com/u/25408000?s=120&v=4" width="100px;" style="border-radius: 9999px;" alt="Stuart Thomas"/><br /><sub><b>Stuart Thomas</b></sub></td>
   </tr>
 </table>
 <!-- markdownlint-enable -->

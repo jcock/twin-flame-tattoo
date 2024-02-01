@@ -1,9 +1,9 @@
 {
-	"title": "Next.js Starter Tailwind",
-	"titleShort": "Next.js Tailwind",
-	"description": "Next.js starter styled with Tailwind",
+	"title": "Twin Flame Tattoo Co.",
+	"titleShort": "Twin Flame",
+	"description": "Twin Flame Tattoo Co. A professional tattoo studio located in the heart of downtown old New Castle, Delaware.",
 	"author": "@abc_Creative",
-	"url": "https://nextjstailwind.netlify.app",
+	"url": "https://twinflametattoo.co",
 	"logo": "favicon.svg",
 	"shareImage": "share.png",
 	"colors": {
@@ -19,26 +19,14 @@
 	},
 	"social": [
 		{
-			"platform": "Facebook",
-			"label": "Like us on Facebook",
-			"url": "https://www.facebook.com/abcCreativeIntelligence",
-			"icon": "fa-brands:facebook-f"
-		},
-		{
 			"platform": "Instagram",
 			"label": "Follow us on Instagram",
-			"url": "https://www.instagram.com/abc_creative/",
+			"url": "https://www.instagram.com/twinflametattooco/",
 			"icon": "fa-brands:instagram"
-		},
-		{
-			"platform": "Twitter",
-			"label": "Follow us on Twitter",
-			"url": "https://twitter.com/abc_Creative",
-			"icon": "fa-brands:twitter"
 		}
 	],
 	"copyright": {
-		"name": "AB&C",
-		"url": "https://abccreative.com"
+		"name": "Twin Flame Tattoo Co.",
+		"url": "https://TwinFlameTattoo.co"
 	}
 }
